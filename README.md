@@ -1,1 +1,3 @@
-# mzs-npm-card
+# Mr Zac Smith
+
+Run the terminal command `npx mrzacsmith` and it will fetch all my current contact information.
