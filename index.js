@@ -6,6 +6,8 @@ const info = {
   NPMjs: 'https://www.npmjs.com/~mrzacsmith',
   GitHub: 'https://github.com/mrzacsmith',
   LinkedIn: 'https://www.linkedin.com/in/mrzacsmith/',
+  Twitter: 'https://twitter.com/mrzacsmith',
+  Email: 'zac@mrzacsmith.com',
 }
 
 console.log('')
