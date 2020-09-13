@@ -3,8 +3,13 @@
   "version": "1.0.0",
   "description": "Contact Zac Smith details. ",
   "main": "index.js",
+  "bin": {
+    "mrzacsmith": "index.js",
+    "MrZacSmith": "index.js",
+    "zacsmith": "index.js"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
@@ -15,9 +20,7 @@
     "smith",
     "javascript",
     "node",
-    "mr",
-    "zac",
-    "smith"
+    "mr"
   ],
   "author": "Mr Zac Smith <zrs3141592@gmail.com>",
   "license": "ISC",
