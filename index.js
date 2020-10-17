@@ -7,7 +7,7 @@ const info = {
   GitHub: 'https://github.com/mrzacsmith',
   LinkedIn: 'https://www.linkedin.com/in/mrzacsmith/',
   Twitter: 'https://twitter.com/mrzacsmith',
-  YouTube: 'https://www.youtube.com/c/ZacSmith/',
+  YouTube: 'https://www.youtube.com/c/zrs3141592',
   Email: 'zac@mrzacsmith.com',
 }
 
