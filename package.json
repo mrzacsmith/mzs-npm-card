@@ -20,8 +20,12 @@
     "mrzacsmith",
     "contact"
   ],
-  "author": "Mr Zac Smith <zrs3141592@gmail.com>",
-  "license": "ISC",
+  "author": {
+    "name": "Zac Smith",
+    "email": "zrs3141592@gmail.com",
+    "url": "https://twitter.com/mrzacsmith"
+  },
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/mrzacsmith/mzs-npm-card/issues"
   },
