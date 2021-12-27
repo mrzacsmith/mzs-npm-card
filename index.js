@@ -21,15 +21,19 @@ ${colors.dim(
   `Node engineer that researchs secure and efficient microserivce back-ends using Node.js, \nExpress.js, MongoDb, and Google Cloud.`
 )}
 
-🐦 ${colors.bold(`Twitter:`)}  ${colors.dim(`https://twitter.com/mrzacsmith`)}
-💻 ${colors.bold(`GitHub:`)}   ${colors.dim(`https://github.com/mrzacsmith`)}
-🎱 ${colors.bold(`NPMjs:`)}    ${colors.dim(
+🐦 ${colors.blue.bold(`Twitter:`)}  ${colors.dim(
+  `https://twitter.com/mrzacsmith`
+)}
+💻 ${colors.blue.bold(`GitHub:`)}   ${colors.dim(
+  `https://github.com/mrzacsmith`
+)}
+🎱 ${colors.red.bold(`NPMjs:`)}    ${colors.dim(
   `https://www.npmjs.com/~mrzacsmith`
 )}
-🧐 ${colors.bold(`LinkedIn:`)} ${colors.dim(
+🧐 ${colors.blue.bold(`LinkedIn:`)} ${colors.dim(
   `https://www.linkedin.com/in/mrzacsmith/`
 )}
-🎬 ${colors.bold(`YouTube:`)}  ${colors.dim(
+🎬 ${colors.red.bold(`YouTube:`)}  ${colors.dim(
   `https://www.youtube.com/c/CodeShockDev`
 )}
 📧 ${colors.bold(`Email:`)}    ${colors.dim(`zac@codeshock.dev`)}
