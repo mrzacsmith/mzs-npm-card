@@ -15,7 +15,7 @@ welcome({
 console.log(`
 Zac Smith - MrZacSmith
 
-Node engineer that researchs secure and efficient microserivce back-ends using Node.js, Express.js, MongoDb, and Google Cloud.
+Node engineer that researchs secure and efficient microserivce back-ends using Node.js, \nExpress.js, MongoDb, and Google Cloud.
 
 🐦 Twitter:  https://twitter.com/mrzacsmith
 💻 GitHub:   https://github.com/mrzacsmith
