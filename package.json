@@ -31,6 +31,7 @@
   },
   "homepage": "https://github.com/mrzacsmith/mzs-npm-card#readme",
   "dependencies": {
-    "cli-welcome": "^2.2.2"
+    "cli-welcome": "^2.2.2",
+    "colors": "^1.4.0"
   }
 }
