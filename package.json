@@ -4,9 +4,7 @@
   "description": "Contact details for Zac Smith, Node Engineer and doctoral researcher. ",
   "main": "index.js",
   "bin": {
-    "mrzacsmith": "index.js",
-    "MrZacSmith": "index.js",
-    "zacsmith": "index.js"
+    "mrzacsmith": "index.js"
   },
   "scripts": {
     "start": "node index.js"
@@ -16,11 +14,11 @@
     "url": "git+https://github.com/mrzacsmith/mzs-npm-card.git"
   },
   "keywords": [
-    "zac",
-    "smith",
     "javascript",
     "node",
-    "mr"
+    "zacsmith",
+    "mrzacsmith",
+    "contact"
   ],
   "author": "Mr Zac Smith <zrs3141592@gmail.com>",
   "license": "ISC",
