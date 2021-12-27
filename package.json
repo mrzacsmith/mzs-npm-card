@@ -1,6 +1,6 @@
 {
   "name": "mrzacsmith",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "description": "Contact details for Zac Smith, Node Engineer and doctoral researcher. ",
   "main": "index.js",
   "bin": {
